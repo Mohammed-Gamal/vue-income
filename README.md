@@ -1,4 +1,4 @@
-# clickerapp
+# vue-income
 
 ## Project setup
 ```
